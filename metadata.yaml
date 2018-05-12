@@ -1,0 +1,28 @@
+_repo: Letters-on-International-Copyright--Second-Edition_14295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carey, Henry Charles
+    alias: Carey, H. C. (Henry Charles)
+    birthdate: 1793
+    deathdate: 1879
+    gutenberg_agent_id: '5453'
+    url: http://www.gutenberg.org/2009/agents/5453
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Carey
+description: ''
+gutenberg_issued: '2004-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Copyright, International'
+title: Letters on International Copyright; Second Edition
+url: http://www.gutenberg.org/ebooks/14295
